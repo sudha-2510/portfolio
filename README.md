@@ -2,7 +2,7 @@
 
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" type="image/x-icon" href="https://i.ibb.co/3m2nktv/Whats-App-Image-2022-07-25-at-3-14-45-PM.jpg">
+    <link rel="icon" type="image/x-icon" 
     <style>
         body {
             background-image: url('https://media4.giphy.com/media/gFhZjOtzoutSvckWPM/giphy.gif');
@@ -57,12 +57,12 @@
         <li><a href="#contact">Contact </a></li>
         <li><a href="#about">About Me</a></li>
     </ul>
-    <img src="https://i.ibb.co/3m2nktv/Whats-App-Image-2022-07-25-at-3-14-45-PM.jpg" alt="Image">
-    <h1 style="text-align:center;color:rgb(255, 20, 20)">KOLLA GNANA PRASANNA</h1>
+    
+    <h1 style="text-align:center;color:rgb(255, 20, 20)">SUDHA DESA</h1>
     <h1 style="text-align:center;color:rgb(255,20,20)">Student,Developer</h1>
     <div class="card" style="margin-left:600px;background-color:aliceblue" >
         <h1 style="text-align: center;color:green;font-size: 30px;">Visit My </h1>
-        <a href="https://github.com/kolla-gnana-prasanna" target="_blank">
+        <a href="https://github.com/sudha-2510" target="_blank">
             <ion-icon name="logo-github" style="font-size: 50px;"></ion-icon>
         </a>
         <a href="" target="_blank">
@@ -73,7 +73,7 @@
     </div>
     <pre style="font-size:35px;color:blue;">
     Hey!
-    I'm Kolla Gnana Prasanna from Andra Pradesh!
+    I'm SUDHA DESA from Andra Pradesh!
     I love programming, taking photos and learning new things!
     </pre>
 </body>
